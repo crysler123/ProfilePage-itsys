@@ -111,3 +111,10 @@ footer{
     font-color: white;
     float: center;
 }
+
+/* for resizing Paragraph, for desktops*/
+@media (min-width: 1024px) and (max-width: 1400px){
+    .text-box{
+        font-size 2rem;
+    }
+}
