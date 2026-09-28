@@ -115,7 +115,7 @@ footer{
 }
 
 /* for resizing Paragraph, for desktops*/
-@media (min-width: 1024px) and (max-width: 1400px){
+@media (min-width: 1024px) and (max-width: 2080px){
     .text-box{
         font-size 2rem;
     }
