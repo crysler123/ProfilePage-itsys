@@ -77,7 +77,9 @@ article{
     height: auto;
 }
 
-
+.text-box{
+    font-size: 1rem;
+}
 
 footer{
     background-color: #f2f2f2;
